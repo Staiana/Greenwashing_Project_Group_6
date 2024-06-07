@@ -1,3 +1,6 @@
+** LINK TO OUR GITHUB 
+** https://github.com/Staiana/Greenwashing_Project_Group_6/tree/main
+** We used python for cleaning our data and for the descriptive analysis 
 
 * Set the working environment (Change to your directory!!) * /Users/carmelaperri/Desktop/REME
 cd "\Users\simta\OneDrive\Documents\documents importants\Université\HEC3\Recherches"
