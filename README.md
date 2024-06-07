@@ -22,7 +22,7 @@ The repository contains the following files and directories:
 - **Paper**
   - `Green_lies_and_market_cries.pdf`: The research paper detailing our findings.
 - **Notebooks**
-  - `data_cleaning_analysis.ipynb`: Jupyter notebook for data cleaning, descriptive analysis, and initial methodological steps.
+  - `Groupe_6_REME.ipynb`: Jupyter notebook for data cleaning, descriptive analysis, and initial methodological steps.
 - **Scripts**
   - `analysis.do`: Stata Do-file for additional descriptive analysis and regression models.
 - **Data**
@@ -46,26 +46,14 @@ pip install pandas numpy matplotlib
 Stata
 Ensure you have Stata installed on your machine to run the Do-file.
 
-Usage
+###Usage
 Jupyter Notebook
-Open the data_cleaning_analysis.ipynb file in Jupyter Notebook.
+Open the Groupe_6_REME.ipynb file in Jupyter Notebook.
 Run the notebook cells to perform data cleaning, descriptive analysis, and initial methodology steps.
 Stata Do-file
 Open Stata.
 Run the analysis.do file to perform additional descriptive analysis and regression models.
-Contributing
-We welcome contributions from the community. To contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-Please ensure your code follows our coding standards and includes appropriate tests.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to reach out with any questions or feedback.
-
-Happy coding!
