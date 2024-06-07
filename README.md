@@ -49,7 +49,7 @@ Run the notebook cells to perform data cleaning, descriptive analysis, and initi
 
 Stata Do-file
 Open Stata.
-Run the analysis.do file to perform additional descriptive analysis and regression models.
+Run the Group_6.do file to perform additional descriptive analysis and regression models.
 
 
 
