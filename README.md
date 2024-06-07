@@ -24,9 +24,9 @@ The repository contains the following files and directories:
 - **Notebooks**
   - `Groupe_6_REME.ipynb`: Jupyter notebook for data cleaning, descriptive analysis, and initial methodological steps.
 - **Scripts**
-  - `analysis.do`: Stata Do-file for additional descriptive analysis and regression models.
+  - `Groupe_6.do`: Stata Do-file for additional descriptive analysis and our regression models.
 - **Data**
-  - `acc_data.csv`: Initial dataset for the Jupyter notebook.
+  - `acc_data.csv`: Initial dataset containing the manually scared accusations for the Jupyter notebook.
   - `final_df.csv`: Final dataset used in the Stata Do-file.
 
 ## Installation
@@ -35,21 +35,18 @@ To run the analysis, you need to have the following software installed:
 
 - Python (version 3.7 or higher)
 - Jupyter Notebook
-- Stata
+- STATA
 
-### Python Dependencies
 
-Install the required Python packages using pip:
+### Usage
+The results (Readable jupyter notebook and log-file) are in the respective folders (Python and STATA)
 
-```bash
-pip install pandas numpy matplotlib
-Stata
-Ensure you have Stata installed on your machine to run the Do-file.
+If you want to execute or modify the code:
 
-###Usage
-Jupyter Notebook
+Jupyter Notebook:
 Open the Groupe_6_REME.ipynb file in Jupyter Notebook.
 Run the notebook cells to perform data cleaning, descriptive analysis, and initial methodology steps.
+
 Stata Do-file
 Open Stata.
 Run the analysis.do file to perform additional descriptive analysis and regression models.
