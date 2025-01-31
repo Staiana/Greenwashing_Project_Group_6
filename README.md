@@ -1,4 +1,4 @@
-# Greenwashing Bachelor's Project: Group_6
+# Project: Group_6
 
 Welcome to our repository. This project explores the impact of greenwashing accusations on stock prices, encapsulated in our paper titled "Green lies and market cries? A Diff-in-Diff Analysis". Below, you will find detailed information about the project components, installation instructions, usage guidelines, and contribution protocols.
 
